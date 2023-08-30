@@ -1,4 +1,4 @@
-# Streamverse Backend
+# Streamverse 
 
 Streamverse is a decentralized video platform that leverages the capabilities of Superfluid and Livepeer to offer unique features such as real-time ad campaigns and premium subscriptions.
 
