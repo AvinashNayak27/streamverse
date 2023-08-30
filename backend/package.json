@@ -1,0 +1,21 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@livepeer/react": "^2.8.0",
+    "axios": "^1.4.0",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "mongoose": "^7.4.3",
+    "multer": "^1.4.5-lts.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "@celo-tools/celo-ethers-wrapper": "^0.4.0",
+    "@superfluid-finance/sdk-core": "^0.6.7",
+    "ethers": "^5.7.2",
+    "graphql": "^16.7.1"
+
+  }
+}
